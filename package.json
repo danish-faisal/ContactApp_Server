@@ -2,9 +2,9 @@
   "name": "contactapp_server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server -p 3006 -w db.json"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
